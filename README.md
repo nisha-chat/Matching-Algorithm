@@ -1,7 +1,7 @@
 
 # USA Helping Hands
 
-Contributors: JJ, Nisha, Aditi, Priya
+Contributors: Nisha, JJ, Aditi, Priya
 
 ## Automatic Matching Script
 
